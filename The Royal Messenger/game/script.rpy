@@ -26,7 +26,7 @@ label start:
 
     $ travelBetween()
 
-    e "wowza"
+    e "crazy"
     # This ends the game.
 
     return

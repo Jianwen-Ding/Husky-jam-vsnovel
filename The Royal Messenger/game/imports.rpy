@@ -1,16 +1,16 @@
 #This file links in art/music assets into the game
 # Knight character 
 
-image knightBG = "#000"
+image bg knightBG = "KnightBackground.jpeg"
 
-image knight = "PlaceHolder.png"
-image knight thornReact = "PlaceHolder.png"
-image knight roseReact = "PlaceHolder.png"
+image knight = "Knight.jpg"
+image knight thornReact = "KnightThorn.jpg"
+image knight roseReact = "KnightRose.jpg"
 
 # Princess character
 
-image princessBG =  "#ffffff"
+image bg princessBG =  "PrincessBackground.jpeg"
 
-image princess = "PlaceHolder.png"
-image princess thornReact = "PlaceHolder.png"
-image princess roseReact = "PlaceHolder.png"
+image princess = "Princess.jpg"
+image princess thornReact = "PrincessThorn.jpg"
+image princess roseReact = "PrincessRose.jpg"

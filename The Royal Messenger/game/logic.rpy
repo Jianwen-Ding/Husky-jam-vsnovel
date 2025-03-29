@@ -16,11 +16,12 @@ init python:
         if(store.toKnight):
             renpy.hide("princess")
             renpy.show("knight")
-            renpy.scene("bg knightBG")
+            renpy.with_statement(Dissolve(1.0))
         else:
             renpy.hide("knight")
             renpy.show("princess")
-            renpy.scene("bg princessBG")
+            renpy.show("bg princessBG")
+            renpy.with_statement(Dissolve(1.0))
         
     # will return true if above threshold
     def roseMeterAbove( threshold ):

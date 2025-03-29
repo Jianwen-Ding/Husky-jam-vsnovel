@@ -1,5 +1,8 @@
 ﻿# Handles the logic of the messanger
 
+# The name of the messanger
+default messangerName = "messanger"
+
 # Controls whether the messanger is talking to the knight or the princess
 # Will animate a night if done so
 default toKnight = True
@@ -9,6 +12,7 @@ default roseMeterMin = 0
 default roseMeterMax = 100
 default roseMeter = 50
 
+# Time given for the reaction of 
 define reactionTime = 0.5
 
 init python:
@@ -24,7 +28,7 @@ init python:
             renpy.show("princess")
             renpy.show("bg princessBG")
             renpy.with_statement(Dissolve(1.0))
-        
+    
     # will return true if above threshold
     def roseMeterAbove( threshold ):
         return store.roseMeter > threshold
@@ -33,7 +37,36 @@ init python:
     def roseMeterBelow( threshold ):
         return store.roseMeter < threshold 
 
-    # This animates the character currently being carried out, potentially puts little animation on screen
+    # shows a thorn swaying in the top left of the screen
+    # does cause a pausing effect that lasts reactionTime
+    def triggerThorn():
+        renpy.show("thornIndicator 1")
+        renpy.with_statement(Pause(reactionTime/5))
+        renpy.show("thornIndicator 2")
+        renpy.with_statement(Pause(reactionTime/5))
+        renpy.show("thornIndicator 3")
+        renpy.with_statement(Pause(reactionTime/5))
+        renpy.show("thornIndicator 4")
+        renpy.with_statement(Pause(reactionTime/5))
+        renpy.show("thornIndicator 5")
+        renpy.with_statement(Pause(reactionTime/5))
+        renpy.hide("thornIndicator")
+    # shows a rose blooming in the top left of the screen
+    # does cause a pausing effect that lasts reactionTime
+    def triggerRose():
+        renpy.show("roseIndicator 1")
+        renpy.with_statement(Pause(reactionTime/5))
+        renpy.show("roseIndicator 2")
+        renpy.with_statement(Pause(reactionTime/5))
+        renpy.show("roseIndicator 3")
+        renpy.with_statement(Pause(reactionTime/5))
+        renpy.show("roseIndicator 4")
+        renpy.with_statement(Pause(reactionTime/5))
+        renpy.show("roseIndicator 5")
+        renpy.with_statement(Pause(reactionTime/5))
+        renpy.hide("roseIndicator")
+
+    # This animates thex character currently being carried out, potentially puts little animation on screen
     # and actually applies rose effect onto 
     def decisionRoseEffect( numDrop ):
         # applies actual effect on rose drop meter
@@ -48,24 +81,23 @@ init python:
         if(numDrop < 0):
             if(store.toKnight):
                 renpy.show("knight thornReact")
-                renpy.with_statement(Pause(reactionTime))
+                triggerThorn()
                 renpy.show("knight")
             else: 
                 renpy.show("princess thornReact")
-                renpy.with_statement(Pause(reactionTime))
+                triggerThorn()
                 renpy.show("princess")
         # rosiness anim effect
         elif(numDrop > 0):
             if(store.toKnight):
                 renpy.show("knight roseReact")
-                renpy.with_statement(Pause(reactionTime))
+                triggerRose()
                 renpy.show("knight")
             else: 
                 renpy.show("princess roseReact")
-                renpy.with_statement(Pause(reactionTime))
+                triggerRose()
                 renpy.show("princess")
         # neutral effect
         else:
             wow =3
         return
-

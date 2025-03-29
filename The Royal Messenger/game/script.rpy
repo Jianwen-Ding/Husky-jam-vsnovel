@@ -1,8 +1,5 @@
 ﻿# 
 
-define m = Character("Mars")
-define f = Character("Flora")
-
 
 # The game starts here. 
 

@@ -40,35 +40,17 @@ init python:
     # shows a thorn swaying in the top left of the screen
     # does cause a pausing effect that lasts reactionTime
     def triggerThorn():
-        renpy.show("thornIndicator 1")
-        renpy.with_statement(Pause(reactionTime/5))
-        renpy.show("thornIndicator 2")
-        renpy.with_statement(Pause(reactionTime/5))
-        renpy.show("thornIndicator 3")
-        renpy.with_statement(Pause(reactionTime/5))
-        renpy.show("thornIndicator 4")
-        renpy.with_statement(Pause(reactionTime/5))
-        renpy.show("thornIndicator 5")
-        renpy.with_statement(Pause(reactionTime/5))
-        renpy.hide("thornIndicator")
+        renpy.show("thornIndicator")
     # shows a rose blooming in the top left of the screen
     # does cause a pausing effect that lasts reactionTime
     def triggerRose():
-        renpy.show("roseIndicator 1")
-        renpy.with_statement(Pause(reactionTime/5))
-        renpy.show("roseIndicator 2")
-        renpy.with_statement(Pause(reactionTime/5))
-        renpy.show("roseIndicator 3")
-        renpy.with_statement(Pause(reactionTime/5))
-        renpy.show("roseIndicator 4")
-        renpy.with_statement(Pause(reactionTime/5))
-        renpy.show("roseIndicator 5")
-        renpy.with_statement(Pause(reactionTime/5))
-        renpy.hide("roseIndicator")
+        renpy.show("roseIndicator")
 
     # This animates thex character currently being carried out, potentially puts little animation on screen
     # and actually applies rose effect onto 
     def decisionRoseEffect( numDrop ):
+        renpy.pause(0, hard=True)
+
         # applies actual effect on rose drop meter
         store.roseMeter = store.roseMeter + numDrop
         # bounds rose meter
@@ -81,22 +63,18 @@ init python:
         if(numDrop < 0):
             if(store.toKnight):
                 renpy.show("knight thornReact")
-                triggerThorn()
-                renpy.show("knight")
+                renpy.show("thornIndicator")
             else: 
                 renpy.show("princess thornReact")
-                triggerThorn()
-                renpy.show("princess")
+                renpy.show("thornIndicator")
         # rosiness anim effect
         elif(numDrop > 0):
             if(store.toKnight):
                 renpy.show("knight roseReact")
-                triggerRose()
-                renpy.show("knight")
+                renpy.show("roseIndicator")
             else: 
                 renpy.show("princess roseReact")
-                triggerRose()
-                renpy.show("princess")
+                renpy.show("roseIndicator")
         # neutral effect
         else:
             wow =3

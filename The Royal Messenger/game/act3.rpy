@@ -32,6 +32,7 @@ label .choice1:
 
         "Mars didn’t seem happy about meeting tomorrow, but she said she’ll make it work.":
             f "Oh. I see. I guess she’s busy, then. I’m glad she could make the time to meet with me, but I was hoping she’d be more excited…"
+    jump .part2
 
 label .choice2:
     f "Ah, perfect, you’ve returned! What news from Mars?"
@@ -47,7 +48,7 @@ label .choice2:
     jump .part2
 
 label .part2:
-    f "Where should we meet, then? I think we should do something exciting or adventurous! Perhaps we could go to the archery range?"
+    f "Where should we meet, then? I think we should do something exciting or adventurous! Perhaps we could go to the archery range? Let me know what she thinks."
 
     $ travelBetween()
     m "You’re back! Are we set for [date]?"
@@ -84,6 +85,7 @@ label .choice4:
         "Mars was thinking about getting a meal together, instead.":
             f "Oh, really? That’s a shame, I was hoping to do something more… exciting."
             f "Ah, well. It’s a bit boring, but a meal with Mars does sound amenable, indeed."
+    jump .act3end
 
 label .act3end:
     f "Please, let her know that I will see her soon, and that I am looking forward to our date!"

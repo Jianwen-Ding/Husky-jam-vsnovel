@@ -16,13 +16,13 @@ image roseIndicaor 5 = "Knight.jpg"
 # Knight character 
 image bg knightBG = "KnightBackground.jpeg"
 
-image knight = "Knight.jpg"
+image knight = "k_Base.png"
 image knight thornReact = "KnightThorn.jpg"
 image knight roseReact = "KnightRose.jpg"
 
 # Princess character
 image bg princessBG =  "PrincessBackground.jpeg"
 
-image princess = "Princess.jpg"
+image princess = "p_Base.png"
 image princess thornReact = "PrincessThorn.jpg"
 image princess roseReact = "PrincessRose.jpeg"

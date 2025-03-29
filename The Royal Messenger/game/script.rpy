@@ -1,6 +1,7 @@
 ﻿# 
 
-define e = Character("Eileen")
+define m = Character("Mars")
+define f = Character("Flora")
 
 
 # The game starts here. 
@@ -20,17 +21,17 @@ label start:
 
     # These display lines of dialogue.
 
-    e "You've created a new Ren'Py game."
+    f "You've created a new Ren'Py game."
 
-    e "Once you add a story, pictures, and music, you can release it to the world!"
+    f "Once you add a story, pictures, and music, you can release it to the world!"
 
     $ travelBetween()
 
-    e "crazy"
+    f "crazy"
 
     $ decisionRoseEffect(0.5)
 
-    e "rose"
+    f "rose"
     # This ends the game.
 
-    return
+    jump act3start

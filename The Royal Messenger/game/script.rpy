@@ -6,7 +6,6 @@ define e = Character("Eileen")
 # The game starts here. 
 
 label start:
-
     # Show a background. This uses a placeholder by default, but you can
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
@@ -17,7 +16,7 @@ label start:
     # replace it by adding a file named "eileen happy.png" to the images
     # directory.
 
-    show eileen happy
+    show knight
 
     # These display lines of dialogue.
 
@@ -25,6 +24,9 @@ label start:
 
     e "Once you add a story, pictures, and music, you can release it to the world!"
 
+    $ travelBetween()
+
+    e "wowza"
     # This ends the game.
 
     return

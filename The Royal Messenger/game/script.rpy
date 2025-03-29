@@ -1,6 +1,4 @@
-﻿# 
-
-
+﻿
 # The game starts here. 
 
 label start:
@@ -14,10 +12,10 @@ label start:
     # replace it by adding a file named "eileen happy.png" to the images
     # directory.
 
-    show knight
 
     # These display lines of dialogue.
 
+    show princess at left
     f "You've created a new Ren'Py game."
 
     f "Once you add a story, pictures, and music, you can release it to the world!"

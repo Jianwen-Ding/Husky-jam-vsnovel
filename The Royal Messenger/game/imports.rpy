@@ -50,6 +50,7 @@ image roseIndicator:
 # Knight character 
 image bg knightBG = "KnightBackground.jpeg"
 
+<<<<<<< HEAD
 image knight = "Knight.jpg"
 image knight thornReact:
     "KnightThorn.jpg"
@@ -59,10 +60,15 @@ image knight roseReact:
     "KnightRose.jpg"
     pause reactionTime
     "Knight.jpg"
+=======
+image knight = "k_Base.png"
+image knight thornReact = "KnightThorn.jpg"
+image knight roseReact = "KnightRose.jpg"
+>>>>>>> 342e087756df05af29a0a57d921999181157714d
 
 # Princess character
 image bg princessBG =  "PrincessBackground.jpeg"
 
-image princess = "Princess.jpg"
+image princess = "p_Base.png"
 image princess thornReact = "PrincessThorn.jpg"
 image princess roseReact = "PrincessRose.jpeg"

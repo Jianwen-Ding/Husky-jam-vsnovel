@@ -1,9 +1,9 @@
-﻿# Handles the logic of the messanger
+﻿# Handles the logic of the messenger
 
-# The name of the messanger
-default messangerName = "messanger"
+# The name of the messenger
+default messengerName = "messenger"
 
-# Controls whether the messanger is talking to the knight or the princess
+# Controls whether the messenger is talking to the knight or the princess
 # Will animate a night if done so
 default toKnight = True
 
@@ -14,20 +14,39 @@ default roseMeter = 50
 
 # Time given for the reaction of 
 define reactionTime = 0.5
+define sounds = ['audio/B1.ogg', 'audio/B2.ogg', 'audio/B3.ogg', 'audio/B4.ogg', 'audio/B5.ogg', 'audio/B6.ogg', 'audio/B7.ogg', 'audio/B8.ogg']
+define marsMusic = '4 knight character theme.wav'
+define floraMusic = '3 rose character theme.wav'
+define backgroundMusic = '2 regular game theme.wav'
+define startMusic = '1 start screen.wav'
 
 init python:
+
+    # dialogue sound effect
+    def dialogueSounds(event, interact=True, music=backgroundMusic, **kwargs):
+        if not interact:
+            return
+
+        if event == "show_done":
+            renpy.music.play(music, fadeout=0.5, fadein = 0.5, if_changed=True)
+            for i in range(60):
+                renpy.sound.queue(renpy.random.choice(sounds))
+        elif event == "slow_done" or event == "end":
+            renpy.sound.stop()
+
     # This swaps the scene from knight to princess and vice versa
     def travelBetween():
         store.toKnight = not store.toKnight
         if(store.toKnight):
-            renpy.hide("princess")
-            renpy.show("knight")
-            renpy.with_statement(Dissolve(1.0))
+            renpy.scene()
+            renpy.show("bg knightBG")
+            renpy.show("knight", at_list=[left])
+            renpy.with_statement(Fade(0.5, 0.0, 0.5))
         else:
-            renpy.hide("knight")
-            renpy.show("princess")
+            renpy.scene()
             renpy.show("bg princessBG")
-            renpy.with_statement(Dissolve(1.0))
+            renpy.show("princess", at_list=[left])
+            renpy.with_statement(Fade(0.5, 0.0, 0.5))
     
     # will return true if above threshold
     def roseMeterAbove( threshold ):

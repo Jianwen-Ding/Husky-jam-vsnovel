@@ -27,6 +27,10 @@ label start:
     $ travelBetween()
 
     e "crazy"
+
+    $ decisionRoseEffect(0.5)
+
+    e "rose"
     # This ends the game.
 
     return

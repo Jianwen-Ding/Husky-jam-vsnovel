@@ -9,6 +9,8 @@ default roseMeterMin = 0
 default roseMeterMax = 100
 default roseMeter = 50
 
+define reactionTime = 0.5
+
 init python:
     # This swaps the scene from knight to princess and vice versa
     def travelBetween():
@@ -44,10 +46,24 @@ init python:
 
         # thorniness anim effect
         if(numDrop < 0):
-            wow = 3
+            if(store.toKnight):
+                renpy.show("knight thornReact")
+                renpy.with_statement(Pause(reactionTime))
+                renpy.show("knight")
+            else: 
+                renpy.show("princess thornReact")
+                renpy.with_statement(Pause(reactionTime))
+                renpy.show("princess")
         # rosiness anim effect
         elif(numDrop > 0):
-            wow =3
+            if(store.toKnight):
+                renpy.show("knight roseReact")
+                renpy.with_statement(Pause(reactionTime))
+                renpy.show("knight")
+            else: 
+                renpy.show("princess roseReact")
+                renpy.with_statement(Pause(reactionTime))
+                renpy.show("princess")
         # neutral effect
         else:
             wow =3

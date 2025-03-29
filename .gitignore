@@ -9,3 +9,25 @@ The Royal Messenger/log.txt
 The Royal Messenger/log.txt
 The Royal Messenger/traceback.txt
 The Royal Messenger/log.txt
+# Ignore save files
+*.save
+*.sav
+saves/
+
+# Ignore compiled Ren'Py scripts
+*.rpyc
+*.rpa
+
+# Ignore generated JSON files
+*.json
+
+# Ignore log files
+log.txt
+traceback.txt
+
+# Ignore Ren'Py cache and persistent data
+persistent
+*.bak
+cache/
+
+*.DS_Store

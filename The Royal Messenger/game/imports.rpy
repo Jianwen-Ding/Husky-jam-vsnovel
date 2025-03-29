@@ -42,7 +42,7 @@ image roseIndicator:
 # Knight character 
 image bg knightBG = "KnightBackground.jpeg"
 
-image knight = "k_Base.jpg"
+image knight = "k_Base.png"
 image knight thornReact:
     "KnightThorn.jpg"
     pause reactionTime

@@ -7,6 +7,7 @@ define f = Character("Flora", who_color = "#752065", callback=dialogueSounds, cb
 define f_fast = Character("Flora", who_color = "#752065", what_prefix="{cps=1}", what_suffix="{/cps}")
 
 define n = Character("", callback=dialogueSounds)
+define nvl = Character("", kind=nvl, callback=dialogueSounds)
 
 define config.debug_sound = True
 
@@ -40,4 +41,4 @@ label start:
     f "rose"
     # This ends the game.
 
-    jump act3start
+    jump act2start

@@ -1,9 +1,4 @@
-﻿# 
-
-
-# The game starts here. 
-
-label act3start:
+﻿label act3start:
     f "Mars has agreed to meet with me, then? Wonderful! Set up a time for us to meet, please. Perhaps tomorrow? I simply can’t wait any longer to meet her."
     f "Oh, and, do make sure you refer to this a date. I wouldn’t want there to be any confusion."
 

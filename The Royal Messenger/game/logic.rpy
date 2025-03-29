@@ -21,7 +21,7 @@ define backgroundMusic = '2 regular game theme.wav'
 define startMusic = '1 start screen.wav'
 
 init python:
-
+    
     # dialogue sound effect
     def dialogueSounds(event, interact=True, music=backgroundMusic, **kwargs):
         if not interact:

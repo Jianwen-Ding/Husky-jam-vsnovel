@@ -1,4 +1,15 @@
-﻿
+﻿# Defines character speaking patterns within game 
+
+define m = Character("Mars", who_color = "#636363", callback=dialogueSounds, cb_music=marsMusic)
+define m_fast = Character("Mars", who_color = "#636363", what_prefix="{cps=1}", what_suffix="{/cps}")
+
+define f = Character("Flora", who_color = "#752065", callback=dialogueSounds, cb_music=floraMusic)
+define f_fast = Character("Flora", who_color = "#752065", what_prefix="{cps=1}", what_suffix="{/cps}")
+
+define n = Character("", callback=dialogueSounds)
+
+define config.debug_sound = True
+
 # The game starts here. 
 
 label start:

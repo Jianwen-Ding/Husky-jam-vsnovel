@@ -42,19 +42,31 @@ image roseIndicator:
 # Knight character 
 image bg knightBG = "KnightBackground.png"
 
-image knight = "k_Base.png"
+image knight base = "k_Base.png"
+image knight = "k_Neutral.png"
+image knight cur = "k_Curious.png"
+image knight hap = "k_TalkingNeutral.png"
 image knight thornReact:
     "KnightThorn.jpg"
     pause reactionTime
-    "k_Base.jpg"
+    "k_Base.png"
 image knight roseReact: 
     "KnightRose.jpg"
     pause reactionTime
-    "k_Base.jpg"
+    "k_Base.png"
 
 # Princess character
 image bg princessBG =  "PrincessBackground.jpeg"
 
-image princess = "p_Base.png"
-image princess thornReact = "PrincessThorn.jpg"
-image princess roseReact = "PrincessRose.jpeg"
+image princess base = "p_Base.png"
+image princess = "p_Neutral.png"
+image princess dis = "p_Disappointed.png"
+image princess exc = "p_Excited.png"
+image princess thornReact:
+    "PrincessThorn.jpg"
+    pause reactionTime
+    "p_Base.png"
+image princess roseReact: 
+    "PrincessRose.jpg"
+    pause reactionTime
+    "p_Base.png"

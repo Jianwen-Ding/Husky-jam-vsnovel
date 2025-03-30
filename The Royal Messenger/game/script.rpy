@@ -41,4 +41,4 @@ label start:
     f "rose"
     # This ends the game.
 
-    jump act2start
+    jump act1start

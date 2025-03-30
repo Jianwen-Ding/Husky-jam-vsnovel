@@ -7,8 +7,7 @@ define f = Character("Flora", who_color = "#752065", callback=dialogueSounds, cb
 define f_fast = Character("Flora", who_color = "#752065", what_prefix="{cps=1}", what_suffix="{/cps}")
 
 define n = Character("", callback=dialogueSounds)
-
-define config.debug_sound = True
+define nvl = Character("", kind=nvl, callback=dialogueSounds)
 
 # The game starts here. 
 
@@ -17,8 +16,6 @@ label start:
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
 
-    scene bg room
-
     # This shows a character sprite. A placeholder is used, but you can
     # replace it by adding a file named "eileen happy.png" to the images
     # directory.
@@ -26,18 +23,8 @@ label start:
 
     # These display lines of dialogue.
 
-    show princess at left
-    f "You've created a new Ren'Py game."
+    "Test start of game"
 
-    f "Once you add a story, pictures, and music, you can release it to the world!"
+    $ travelBetween("knight")
 
-    $ travelBetween()
-
-    f "crazy"
-
-    $ decisionRoseEffect(0.5)
-
-    f "rose"
-    # This ends the game.
-
-    jump act3start
+    jump act1start

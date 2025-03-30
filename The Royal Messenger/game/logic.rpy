@@ -5,7 +5,7 @@ default messengerName = "messenger"
 
 # Controls whether the messenger is talking to the knight or the princess
 # Will animate a night if done so
-default toKnight = True
+default toKnight = False
 
 # rose meter parameters
 default roseMeterMin = 0
@@ -21,7 +21,6 @@ define backgroundMusic = '2 regular game theme.wav'
 define startMusic = '1 start screen.wav'
 
 init python:
-    
     # dialogue sound effect
     def dialogueSounds(event, interact=True, music=backgroundMusic, **kwargs):
         if not interact:
@@ -35,17 +34,18 @@ init python:
             renpy.sound.stop()
 
     # This swaps the scene from knight to princess and vice versa
-    def travelBetween():
-        store.toKnight = not store.toKnight
-        if(store.toKnight):
+    def travelBetween(sprite):
+        global toKnight
+        toKnight = not toKnight
+        if(toKnight):
             renpy.scene()
             renpy.show("bg knightBG")
-            renpy.show("knight", at_list=[left])
+            renpy.show(sprite, at_list=[left])
             renpy.with_statement(Fade(0.5, 0.0, 0.5))
         else:
             renpy.scene()
             renpy.show("bg princessBG")
-            renpy.show("princess", at_list=[left])
+            renpy.show(sprite, at_list=[left])
             renpy.with_statement(Fade(0.5, 0.0, 0.5))
     
     # will return true if above threshold

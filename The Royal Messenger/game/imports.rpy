@@ -40,7 +40,7 @@ image roseIndicator:
     alpha 0
 
 # Knight character 
-image bg knightBG = "KnightBackground.jpeg"
+image bg knightBG = "KnightBackground.png"
 
 image knight = "k_Base.png"
 image knight thornReact:

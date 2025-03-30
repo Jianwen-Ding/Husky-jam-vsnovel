@@ -7,4 +7,4 @@ define f = Character("Flora", who_color = "#ffd1ff", callback=dialogueSounds, cb
 define f_fast = Character("Flora", who_color = "#ffd1ff", what_prefix="{cps=1}", what_suffix="{/cps}")
 
 define n = Character("", callback=dialogueSounds)
-define nvl = Character("", kind=nvl, callback=dialogueSounds)
+define nvl_n = Character("", kind=nvl, callback=dialogueSounds)

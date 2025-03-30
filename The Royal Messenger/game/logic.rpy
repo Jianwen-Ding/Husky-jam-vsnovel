@@ -8,9 +8,9 @@ default messengerName = "messenger"
 default toKnight = True
 
 # rose meter parameters
-default roseMeterMin = 0
-default roseMeterMax = 100
-default roseMeter = 50
+default roseMeterMin = 50
+default roseMeterMax = -50
+default roseMeter = 0
 
 # Time given for the reaction of 
 define reactionTime = 0.5

@@ -14,13 +14,16 @@ label start:
 
     menu:
         "Here you go!":
+            show princess
             f "Wonderful! I sincerely thank you."
 
         "No, this letter is for a different princess.":
+            show princess dis
             f "How unfortunate. I do look forward to receiving mail."
 
     n "You give Flora her mail."
 
+    show princess
     f "If it wouldn’t trouble you too much, would you mind doing me a little favor?"
 
     menu: 
@@ -30,6 +33,7 @@ label start:
         "Depends what it is.":
             $placeholder = "whoa"
 
+    show princess
     f "Could you go tell the knight at the front gates to come speak to me?"
 
     menu:
@@ -45,15 +49,19 @@ label start:
 
     menu: 
         "The princess would like to speak with you.":
+            show knight cur
             m "The princess would like to speak with me? About what?" 
             $ roseMeter = roseMeter + 1
 
         "The princess demands your presence at her tower.":
+            show knight cur
             m "The princess would like to see me? What for?"
             $ roseMeter = roseMeter - 1
 
+    show knight
     m "Sorry, I’ve been stationed here at the front gates, and I can’t leave my post."
 
+    show knight cur
     m "But now I’m curious. Could you go find out why the princess asked to see me?"
 
     menu: 
@@ -65,6 +73,7 @@ label start:
 
     $ travelBetween("princess")
 
+    show princess dis
     f "You return, but with no knight. What happened?"  
 
     menu:
@@ -73,6 +82,7 @@ label start:
         "She can’t leave the gates unattended.":
             $ roseMeter = roseMeter - 1
 
+    show princess dis
     f "Oh... I suppose that makes sense."
 
     menu:
@@ -82,7 +92,8 @@ label start:
         "Why did you want to talk to her, anyways?":
             $ roseMeter = roseMeter
 
-    f "Well, to be perfectly honest, I find her to be quite attractive"
+    show princess
+    f "Well, to be perfectly honest, I find her to be quite attractive."
 
     menu:
         "I see!":
@@ -91,15 +102,18 @@ label start:
         "She is pretty cute.":
             $ roseMeter = roseMeter + 1
 
+    show princess
     f "I would like to take her out on a date." 
 
     menu:
         "Should I go ask her?":
+            show princess exc
             f "You know what, why not?"
         
         "Let me go see what she thinks!":
+            show princess exc
             f "Okay, but make sure you come back and tell me what she says!"
 
-    $ travelBetween("knight")
+    $ travelBetween("knight cur")
     jump act2start
 

@@ -5,7 +5,7 @@ default messengerName = "messenger"
 
 # Controls whether the messenger is talking to the knight or the princess
 # Will animate a night if done so
-default toKnight = False
+default toKnight = True
 
 # rose meter parameters
 default roseMeterMin = 0

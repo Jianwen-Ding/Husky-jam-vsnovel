@@ -32,7 +32,7 @@ label start:
 
     f "Once you add a story, pictures, and music, you can release it to the world!"
 
-    $ travelBetween()
+    $ travelBetween("princess")
 
     f "crazy"
 

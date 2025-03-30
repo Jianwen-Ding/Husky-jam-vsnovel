@@ -35,17 +35,17 @@ init python:
             renpy.sound.stop()
 
     # This swaps the scene from knight to princess and vice versa
-    def travelBetween():
+    def travelBetween(sprite):
         store.toKnight = not store.toKnight
         if(store.toKnight):
             renpy.scene()
             renpy.show("bg knightBG")
-            renpy.show("knight", at_list=[left])
+            renpy.show(sprite, at_list=[left])
             renpy.with_statement(Fade(0.5, 0.0, 0.5))
         else:
             renpy.scene()
             renpy.show("bg princessBG")
-            renpy.show("princess", at_list=[left])
+            renpy.show(sprite, at_list=[left])
             renpy.with_statement(Fade(0.5, 0.0, 0.5))
     
     # will return true if above threshold

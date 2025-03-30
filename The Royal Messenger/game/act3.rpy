@@ -119,7 +119,7 @@ label .act3end:
     show princess exc
     f "Please, let her know that I will see her soon, and that I am looking forward to our date!"
 
-    scene placeholder
+    scene bg black
     if roseMeter > 7:
         nvl_n "Before the lovebirds know it, the day of their date arrives, and they finally meet one another in person, each full of anticipation."
         nvl_n "Despite this, Flora begins to find Mars less interesting than she had hoped, and Mars finds Flora more abrasive than she had anticipated."
@@ -132,3 +132,7 @@ label .act3end:
         nvl_n "At long last, the lovebirds finally meet in person. After a brief moment of shyness, the two quickly start warming up to each other."
         nvl_n "Sparks fly as Flora and Mars exchange stories, realize common interests, and laugh about little differences."
         nvl_n "As the date draws to a close, the two make plans for next weekend, and even share a little kiss. A relationship is beginning to bloom."
+        scene bg black
+        show good_ending
+        pause
+        

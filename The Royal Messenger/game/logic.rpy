@@ -37,12 +37,23 @@ init python:
     def travelBetween(sprite):
         global toKnight
         toKnight = not toKnight
+        renpy.scene()
         if(toKnight):
+            renpy.scene()
+            renpy.show("bg black")
+            renpy.show("leftWalkAnim", at_list=[leftWalkTrans])
+            renpy.with_statement(Fade(0.5, 0.0, 0.5))
+            renpy.pause(2)
             renpy.scene()
             renpy.show("bg knightBG")
             renpy.show(sprite, at_list=[left])
             renpy.with_statement(Fade(0.5, 0.0, 0.5))
         else:
+            renpy.scene()
+            renpy.show("bg black")
+            renpy.show("rightWalkAnim", at_list=[rightWalkTrans])
+            renpy.with_statement(Fade(0.5, 0.0, 0.5))
+            renpy.pause(2)
             renpy.scene()
             renpy.show("bg princessBG")
             renpy.show(sprite, at_list=[left])

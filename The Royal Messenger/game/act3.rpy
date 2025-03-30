@@ -1,6 +1,7 @@
 ﻿label act3start:
     f "Mars has agreed to meet with me, then? Wonderful! Set up a time for us to meet, please. Perhaps tomorrow? I simply can’t wait any longer to meet her."
 
+    scene
     $ travelBetween("knight cur")
 
     m "You got a response from Flora? What’d she say?"
@@ -10,6 +11,7 @@
             m "Tomorrow? That’s… I dunno, I’ll be busy until pretty late."
             m "You did say she looked antsy, though. I guess I’ll make it work somehow."
             $ date = "tomorrow"
+            scene
             $ travelBetween("princess exc")
             jump .choice1
         "Flora wanted to ask you the next time you’re available to go on a date with her. She’s hoping for tomorrow.":
@@ -18,6 +20,7 @@
             show knight hap
             m "Hmm... I'd rather not be tired for our date, let’s do Saturday, instead."
             $ date = "Saturday"
+            scene
             $ travelBetween("princess exc")
             jump .choice2
 
@@ -52,6 +55,7 @@ label .choice2:
 label .part2:
     f "Where should we meet, then? I think we should do something exciting or adventurous! Perhaps we could go to the archery range? Let me know what she thinks."
 
+    scene
     $ travelBetween("knight hap")
     m "You’re back! Are we set for [date]?"
     menu:
@@ -60,12 +64,14 @@ label .part2:
             m "The archery range? I don’t know, I do a lot of training for work already."
             m "I was hoping that we could go to a quiet place to share a meal, but she wants to do something adventurous…"
             m "I suppose it might be fun since it’ll be with her, even if it’s not my first choice."
+            scene
             $ travelBetween("princess")
             jump .choice3
         "Yes, Flora is asking about where to meet. She suggested the archery range.":
             show knight
             m "Oh, the archery range? I’m not sure about that, I’m already training a lot for work…"
             m "Maybe we could go someplace calmer? Have a meal together, maybe."
+            scene
             $ travelBetween("princess")
             jump .choice4
 

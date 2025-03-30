@@ -8,6 +8,7 @@ label start:
 
     n "You run to the castle, and pass through its heavily guarded gates."
 
+    scene
     $ travelBetween("princess")
 
     f "You there, might you have a letter for me?"
@@ -43,6 +44,7 @@ label start:
         "Whatever you say, boss.":
             $placeholder = "whoa"
 
+    scene
     $ travelBetween("knight")
 
     m "Hello. Do you need help with something?"
@@ -71,6 +73,7 @@ label start:
         "I’m happy to help!":
             $placeholder = "whoa"
 
+    scene
     $ travelBetween("princess")
 
     show princess dis
@@ -114,6 +117,7 @@ label start:
             show princess exc
             f "Okay, but make sure you come back and tell me what she says!"
 
+    scene
     $ travelBetween("knight cur")
     jump act2start
 

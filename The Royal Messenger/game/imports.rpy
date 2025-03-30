@@ -70,3 +70,57 @@ image princess roseReact:
     "PrincessRose.jpg"
     pause reactionTime
     "p_Base.png"
+
+image bg black = "bg black.jpg"
+
+define animSpeed = 0.15
+
+image leftWalkAnim:
+    "walk_Left/walkLeft_1.png"
+    pause animSpeed
+    "walk_Left/walkLeft_2.png"
+    pause animSpeed
+    "walk_Left/walkLeft_3.png"
+    pause animSpeed
+    "walk_Left/walkLeft_4.png"
+    pause animSpeed
+    "walk_Left/walkLeft_5.png"
+    pause animSpeed
+    "walk_Left/walkLeft_6.png"
+    pause animSpeed
+    "walk_Left/walkLeft_7.png"
+    pause animSpeed
+    "walk_Left/walkLeft_8.png"
+    repeat
+
+transform leftWalkTrans:
+    animation
+    xalign 1.0
+    yalign 1.0
+    pause 0.5
+    linear 2.5 xalign 0.0
+
+image rightWalkAnim:
+    "walk_Right/walkRight_1.png"
+    pause animSpeed
+    "walk_Right/walkRight_2.png"
+    pause animSpeed
+    "walk_Right/walkRight_3.png"
+    pause animSpeed
+    "walk_Right/walkRight_4.png"
+    pause animSpeed
+    "walk_Right/walkRight_5.png"
+    pause animSpeed
+    "walk_Right/walkRight_6.png"
+    pause animSpeed
+    "walk_Right/walkRight_7.png"
+    pause animSpeed
+    "walk_Right/walkRight_8.png"
+    repeat
+
+transform rightWalkTrans:
+    animation
+    xalign 0.0
+    yalign 1.0
+    pause 0.5
+    linear 2.5 xalign 1.0

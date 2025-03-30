@@ -81,7 +81,6 @@ style frame:
 ## In-game screens
 ################################################################################
 
-
 ## Say screen ##################################################################
 ##
 ## The say screen is used to display dialogue to the player. It takes two

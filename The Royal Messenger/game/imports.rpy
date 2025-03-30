@@ -56,7 +56,7 @@ image knight roseReact:
     "k_Base.png"
 
 # Princess character
-image bg princessBG =  "PrincessBackground.jpeg"
+image bg princessBG =  "PrincessBackground.png"
 
 image princess base = "p_Base.png"
 image princess = "p_Neutral.png"

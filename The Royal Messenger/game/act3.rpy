@@ -117,4 +117,6 @@ label .act3end:
         nvl_n "As the days passed, Flora’s impatience bred disinterest and Mars’ concern tired her out more than even her work."
         nvl_n "It seems the pair just weren’t meant to be. Maybe in another life…"
     else:
-        nvl_n "placeholder"
+        nvl_n "At long last, the lovebirds finally meet in person. After a brief moment of shyness, the two quickly start warming up to each other."
+        nvl_n "Sparks fly as Flora and Mars exchange stories, realize common interests, and laugh about little differences."
+        nvl_n "As the date draws to a close, the two make plans for next weekend, and even share a little kiss. A relationship is beginning to bloom."

@@ -8,7 +8,7 @@
     menu:
         "Flora wants to go on a date with you tomorrow. She seemed antsy.":
             $ roseMeter = roseMeter - 3
-            show knight
+            show knight at bounce
             m "Tomorrow? That’s… I dunno, I’ll be busy until pretty late."
             m "You did say she looked antsy, though. I guess I’ll make it work somehow."
             $ date = "tomorrow"
@@ -17,9 +17,9 @@
             jump .choice1
         "Flora wanted to ask you the next time you’re available to go on a date with her. She’s hoping for tomorrow.":
             $ roseMeter = roseMeter + 2
-            show knight
+            show knight at bounce
             m "I could probably meet tomorrow, but I’ll be tired after a day of work. My next day off is Saturday, that’d probably be better."
-            show knight hap
+            show knight hap at bounce
             m "Hmm... I'd rather not be tired for our date, let’s do Saturday, instead."
             $ date = "Saturday"
             scene
@@ -31,12 +31,12 @@ label .choice1:
     menu:
         "Mars said that tomorrow will work for her.":
             $ roseMeter = roseMeter + 1
-            show princess exc
+            show princess exc at bounce
             f "Perfect! I cannot wait to meet her. I hope she’s just as excited about this as I am!"
 
         "Mars didn’t seem happy about meeting tomorrow, but she said she’ll make it work.":
             $ roseMeter = roseMeter - 2
-            show princess dis
+            show princess dis at bounce
             f "Oh. I see. I guess she’s busy, then. I’m glad she could make the time to meet with me, but I was hoping she’d be more excited…"
     jump .part2
 
@@ -45,14 +45,14 @@ label .choice2:
     menu:
         "Mars is too busy to go on a date until Saturday.":
             $ roseMeter = roseMeter + 1
-            show princess dis
+            show princess dis at bounce
             f "Saturday?! But that’s so far from now…"
-            show princess
+            show princess at bounce
             f "If she’s busy, though, I suppose it cannot be helped. Saturday it is."
 
         "Mars has work, so she doesn’t want to go on a date until Saturday.":
             $ roseMeter = roseMeter - 2
-            show princess dis
+            show princess dis at bounce
             f "Saturday?! But that’s so far from now…"
             f "I guess she’s probably busy with work and all, but…"
             f "Fine, Saturday it is."
@@ -67,7 +67,7 @@ label .part2:
     menu:
         "Yes, Flora is thinking of going to the archery range. She wants to do something “adventurous”.":
             $ roseMeter = roseMeter - 1
-            show knight
+            show knight at bounce
             m "The archery range? I don’t know, I do a lot of training for work already."
             m "I was hoping that we could go to a quiet place to share a meal, but she wants to do something adventurous…"
             m "I suppose it might be fun since it’ll be with her, even if it’s not my first choice."
@@ -76,7 +76,7 @@ label .part2:
             jump .choice3
         "Yes, Flora is asking about where to meet. She suggested the archery range.":
             $ roseMeter = roseMeter + 1
-            show knight
+            show knight at bounce
             m "Oh, the archery range? I’m not sure about that, I’m already training a lot for work…"
             m "Maybe we could go someplace calmer? Have a meal together, maybe."
             scene
@@ -88,12 +88,12 @@ label .choice3:
     menu:
         "She was disappointed, but she said she was okay with it.":
             $ roseMeter = roseMeter - 2
-            show princess dis
+            show princess dis at bounce
             f "Oh… Really? I do wish she would not acquiesce if it isn’t what she wants to do."
             f "I would hate for her to be going along with it only because of… you know."
         "She said that it sounds okay to her, since it’ll be fun if it’s with you.":
             $ roseMeter = roseMeter + 2
-            show princess exc
+            show princess exc at bounce
             f "Oh! Did she really? That’s awfully sweet of her to say, I truly cannot wait for [date]!"
     jump .act3end
 
@@ -102,21 +102,21 @@ label .choice4:
     menu:
         "Mars didn’t like the idea of archery since it’s part of what she does for work. She wants to get a meal together, instead":
             $ roseMeter = roseMeter - 2
-            show princess dis
+            show princess dis at bounce
             f "Oh… I suppose that makes sense. How embarrassing for me. That’s a shame, I was hoping to do something more… exciting."
-            show princess
+            show princess at bounce
             f "Ah, well. It’s a bit boring, but a meal with Mars does sound amenable, indeed."
 
         "Mars was thinking about getting a meal together, instead.":
             $ roseMeter = roseMeter + 1
-            show princess dis
+            show princess dis at bounce
             f "Oh, really? That’s a shame, I was hoping to do something more… exciting."
-            show princess
+            show princess at bounce
             f "Ah, well. It’s a bit boring, but a meal with Mars does sound amenable, indeed."
     jump .act3end
 
 label .act3end:
-    show princess exc
+    show princess exc at bounce
     f "Please, let her know that I will see her soon, and that I am looking forward to our date!"
 
     scene bg black

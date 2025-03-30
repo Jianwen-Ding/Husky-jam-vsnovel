@@ -71,3 +71,14 @@ transform rightWalkTrans:
     yalign 1.0
     pause 0.5
     linear 2.5 xalign 1.0
+
+
+
+transform bounce:
+    pause .15
+    yoffset 0
+    easein .175 yoffset -10
+    easeout .175 yoffset 0
+    easein .175 yoffset -4
+    easeout .175 yoffset 0
+    yoffset 0

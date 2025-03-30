@@ -1,18 +1,19 @@
-2025-03-29 20:30:43 UTC
+2025-03-30 00:55:53 UTC
 Windows-10-10.0.26100
 Ren'Py 8.3.7.25031702
 
 Early init took 0.04s
-Loading error handling took 0.02s
+Loading error handling took 0.05s
 Loading script took 0.12s
 Loading save slot metadata took 0.02s
 Loading persistent took 0.00s
-Running init code took 0.03s
+Running init code took 0.04s
 Loading analysis data took 0.01s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.01s
 Index archives took 0.00s
-Dump and make backups took 0.02s
+Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
+Dump and make backups took 0.03s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
 Initial gc took 0.02s
@@ -30,7 +31,7 @@ Prepare screens took 0.03s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.02s
 Running _start took 0.00s
-Interface start took 0.39s
+Interface start took 0.41s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 2560, 1440)
@@ -45,7 +46,7 @@ Maximum texture size: 4096x4096
 Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 30.33s
+Early init took 36.65s
 Loading error handling took 0.02s
 Loading script took 0.08s
 Loading save slot metadata took 0.01s
@@ -68,95 +69,7 @@ Cleaning stores took 0.00s
 Init translation took 0.00s
 Build styles took 0.00s
 Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.39s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 166.39s
-Loading error handling took 0.01s
-Loading script took 0.08s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.39s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 169.66s
-Loading error handling took 0.01s
-Loading script took 0.08s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
+Analyze screens took 0.00s
 Save screen analysis took 0.01s
 Prepare screens took 0.03s
 Save pyanalysis. took 0.00s
@@ -177,443 +90,11 @@ Maximum texture size: 4096x4096
 Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 180.53s
-Loading error handling took 0.01s
-Loading script took 0.06s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.04s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.40s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 195.98s
-Loading error handling took 0.01s
-Loading script took 0.07s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.02s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.41s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 203.84s
-Loading error handling took 0.01s
-Loading script took 0.07s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-File "game/script.rpy", line 26: end of line expected.
-    show kBase.png at left
-              ^
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Interface start took 0.30s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 213.04s
-Loading error handling took 0.01s
-Loading script took 0.07s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-File "game/script.rpy", line 26: expected 'image_name_component' not found.
-    show  at left
-        ^
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Interface start took 0.29s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 237.30s
+Early init took 65.61s
 Loading error handling took 0.01s
 Loading script took 0.10s
 Loading save slot metadata took 0.01s
 Loading persistent took 0.00s
-
-File "game/script.rpy", line 26: expected 'image_name_component' not found.
-    show  at left
-        ^
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Interface start took 0.28s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 245.02s
-Loading error handling took 0.01s
-Loading script took 0.07s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.03s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.02s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.38s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 311.69s
-Loading error handling took 0.01s
-Loading script took 0.08s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.39s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 316.69s
-Loading error handling took 0.01s
-Loading script took 0.07s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.40s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 321.52s
-Loading error handling took 0.01s
-Loading script took 0.08s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.39s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 332.35s
-Loading error handling took 0.01s
-Loading script took 0.06s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.01s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Interface start took 0.40s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 335.79s
-Loading error handling took 0.01s
-Loading script took 0.08s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.39s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 347.65s
-Loading error handling took 0.01s
-Loading script took 0.06s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
 Running init code took 0.02s
 Loading analysis data took 0.01s
 Analyze and compile ATL took 0.00s
@@ -632,235 +113,11 @@ Cleaning stores took 0.00s
 Init translation took 0.00s
 Build styles took 0.00s
 Load screen analysis took 0.00s
-Analyze screens took 0.00s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.26s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 367.59s
-Loading error handling took 0.01s
-Loading script took 0.09s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
 Analyze screens took 0.01s
 Save screen analysis took 0.01s
 Prepare screens took 0.03s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.38s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 372.42s
-Loading error handling took 0.01s
-Loading script took 0.09s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.37s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 378.78s
-Loading error handling took 0.01s
-Loading script took 0.08s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-File "game/logic.rpy", line 41: unexpected indent
-                renpy.at_statement("left")
-                ^
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Interface start took 0.30s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 380.50s
-Loading error handling took 0.01s
-Loading script took 0.09s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.03s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.04s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.02s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.28s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-
-Full traceback:
-  File "game/script.rpy", line 29, in script
-    $ travelBetween()
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 834, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\python.py", line 1187, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-  File "game/script.rpy", line 29, in <module>
-    $ travelBetween()
-  File "game/logic.rpy", line 41, in travelBetween
-    renpy.at_statement("left")
-AttributeError: module 'renpy.exports' has no attribute 'at_statement'
-
-While running game code:
-  File "game/script.rpy", line 29, in script
-    $ travelBetween()
-  File "game/script.rpy", line 29, in <module>
-    $ travelBetween()
-  File "game/logic.rpy", line 41, in travelBetween
-    renpy.at_statement("left")
-AttributeError: module 'renpy.exports' has no attribute 'at_statement'
-Resetting cache.
-Early init took 383.35s
-Loading error handling took 0.01s
-Loading script took 0.05s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.01s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
 Running _start took 0.00s
 Interface start took 0.41s
 
@@ -876,33 +133,142 @@ Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
 Maximum texture size: 4096x4096
 Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
 Maximum texture size: 4096x4096
-
-Full traceback:
-  File "game/script.rpy", line 29, in script
-    $ travelBetween()
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 834, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\python.py", line 1187, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-  File "game/script.rpy", line 29, in <module>
-    $ travelBetween()
-  File "game/logic.rpy", line 41, in travelBetween
-    renpy.at_statement("left")
-AttributeError: module 'renpy.exports' has no attribute 'at_statement'
-
-While running game code:
-  File "game/script.rpy", line 29, in script
-    $ travelBetween()
-  File "game/script.rpy", line 29, in <module>
-    $ travelBetween()
-  File "game/logic.rpy", line 41, in travelBetween
-    renpy.at_statement("left")
-AttributeError: module 'renpy.exports' has no attribute 'at_statement'
 Resetting cache.
-Early init took 450.33s
+Early init took 76.41s
 Loading error handling took 0.01s
 Loading script took 0.06s
 Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.02s
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.39s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.14'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 78.07s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.02s
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.38s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.14'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 91.94s
+Loading error handling took 0.01s
+Loading script took 0.10s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.00s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.39s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.14'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 96.80s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.02s
 Loading persistent took 0.00s
 Running init code took 0.02s
 Loading analysis data took 0.01s
@@ -942,438 +308,13 @@ Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
 Maximum texture size: 4096x4096
 Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
 Maximum texture size: 4096x4096
-
-Full traceback:
-  File "game/script.rpy", line 29, in script
-    $ travelBetween()
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 834, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\python.py", line 1187, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-  File "game/script.rpy", line 29, in <module>
-    $ travelBetween()
-  File "game/logic.rpy", line 39, in travelBetween
-    renpy.show("princess", at_list=["left"])
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\exports\displayexports.py", line 489, in show
-    img = i(img) # type: ignore
-TypeError: 'str' object is not callable
-
-While running game code:
-  File "game/script.rpy", line 29, in script
-    $ travelBetween()
-  File "game/script.rpy", line 29, in <module>
-    $ travelBetween()
-  File "game/logic.rpy", line 39, in travelBetween
-    renpy.show("princess", at_list=["left"])
-TypeError: 'str' object is not callable
 Resetting cache.
-Early init took 462.35s
-Loading error handling took 0.01s
-Loading script took 0.07s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.38s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 823.19s
-Loading error handling took 0.01s
-Loading script took 0.07s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.02s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.39s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-help
-help
-help
-help
-help
-help
-help
-help
-Resetting cache.
-Early init took 853.65s
-Loading error handling took 0.01s
-Loading script took 0.06s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.39s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 879.56s
-Loading error handling took 0.01s
-Loading script took 0.10s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.40s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Can't find a place to rollback to. Not rolling back.
-Can't find a place to rollback to. Not rolling back.
-Resetting cache.
-Early init took 885.52s
-Loading error handling took 0.01s
-Loading script took 0.06s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.01s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Interface start took 0.40s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 950.69s
-Loading error handling took 0.01s
-Loading script took 0.07s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.40s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 953.45s
-Loading error handling took 0.01s
-Loading script took 0.06s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.02s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.01s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Interface start took 0.39s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Can't find a place to rollback to. Not rolling back.
-Can't find a place to rollback to. Not rolling back.
-Can't find a place to rollback to. Not rolling back.
-Can't find a place to rollback to. Not rolling back.
-Resetting cache.
-Early init took 1100.05s
+Early init took 109.20s
 Loading error handling took 0.01s
 Loading script took 0.09s
 Loading save slot metadata took 0.01s
 Loading persistent took 0.00s
-
-File "game/script.rpy", line 7: expected statement.
-    config.debug_sound = True
-                       ^
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Interface start took 0.30s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1107.07s
-Loading error handling took 0.01s
-Loading script took 0.06s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-File "game/script.rpy", line 7: expected statement.
-    config.debug_sound = True
-                       ^
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Interface start took 0.29s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1107.73s
-Loading error handling took 0.01s
-Loading script took 0.05s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-File "game/script.rpy", line 7: expected statement.
-    config.debug_sound = True
-                       ^
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Interface start took 0.16s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1115.51s
-Loading error handling took 0.01s
-Loading script took 0.08s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.03s
+Running init code took 0.02s
 Loading analysis data took 0.01s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.01s
@@ -1382,7 +323,7 @@ Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\Th
 Dump and make backups took 0.03s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.02s
+Initial gc took 0.03s
 DPI scale factor: 1.500000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
@@ -1391,13 +332,13 @@ Cleaning stores took 0.00s
 Init translation took 0.00s
 Build styles took 0.00s
 Load screen analysis took 0.00s
-Analyze screens took 0.01s
+Analyze screens took 0.00s
 Save screen analysis took 0.01s
 Prepare screens took 0.03s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.01s
 Running _start took 0.00s
-Interface start took 0.39s
+Interface start took 0.36s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 2560, 1440)
@@ -1412,9 +353,9 @@ Maximum texture size: 4096x4096
 Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 1208.71s
+Early init took 112.48s
 Loading error handling took 0.01s
-Loading script took 0.07s
+Loading script took 0.09s
 Loading save slot metadata took 0.01s
 Loading persistent took 0.00s
 Running init code took 0.02s
@@ -1435,7 +376,51 @@ Cleaning stores took 0.00s
 Init translation took 0.00s
 Build styles took 0.00s
 Load screen analysis took 0.00s
-Analyze screens took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.37s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.14'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 127.88s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
 Save screen analysis took 0.01s
 Prepare screens took 0.03s
 Save pyanalysis. took 0.00s
@@ -1463,570 +448,12 @@ Analyze screens took 0.00s
 Prepare screens took 0.00s
 Running _start took 0.00s
 Resetting cache.
-Early init took 1221.05s
-Loading error handling took 0.01s
-Loading script took 0.06s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.04s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.39s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1369.10s
-Loading error handling took 0.01s
-Loading script took 0.09s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.40s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1444.19s
+Early init took 149.35s
 Loading error handling took 0.01s
 Loading script took 0.07s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.02s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.38s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1578.76s
-Loading error handling took 0.01s
-Loading script took 0.09s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.40s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1586.59s
-Loading error handling took 0.01s
-Loading script took 0.08s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.02s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.41s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1591.73s
-Loading error handling took 0.01s
-Loading script took 0.06s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.01s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Interface start took 0.38s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-
-Full traceback:
-  File "game/act3.rpy", line 12, in script
-    m "You got a response from Flora? What’d she say?"
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 2586, in execute
-    Say.execute(self)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 623, in execute
-    renpy.exports.say(who, what, *args, **kwargs)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\exports\sayexports.py", line 132, in say
-    who(what, *args, **kwargs)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\character.py", line 1471, in __call__
-    self.do_display(who, what, cb_args=self.cb_args, dtt=dtt, **display_args)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\character.py", line 1117, in do_display
-    display_say(who,
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\character.py", line 808, in display_say
-    pause_callback("show_done")
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\character.py", line 91, in __call__
-    c(*args, **kwargs)
-  File "game/logic.rpy", line 27, in dialogueSounds
-    renpy.queue(renpy.random.choice(sounds), channel=sound)
-AttributeError: module 'renpy.exports' has no attribute 'queue'
-
-While running game code:
-  File "game/act3.rpy", line 12, in script
-    m "You got a response from Flora? What’d she say?"
-  File "game/logic.rpy", line 27, in dialogueSounds
-    renpy.queue(renpy.random.choice(sounds), channel=sound)
-AttributeError: module 'renpy.exports' has no attribute 'queue'
-Resetting cache.
-Early init took 1668.99s
-Loading error handling took 0.01s
-Loading script took 0.07s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.38s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1695.18s
-Loading error handling took 0.01s
-Loading script took 0.09s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.28s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1696.99s
-Loading error handling took 0.01s
-Loading script took 0.06s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.01s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Interface start took 0.41s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 1704.11s
-Loading error handling took 0.01s
-Loading script took 0.07s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.00s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.41s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 2102.62s
-Loading error handling took 0.02s
-Loading script took 0.12s
 Loading save slot metadata took 0.02s
 Loading persistent took 0.00s
 Running init code took 0.03s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.04s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.41s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 2104.31s
-Loading error handling took 0.01s
-Loading script took 0.07s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.04s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.40s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 2106.03s
-Loading error handling took 0.01s
-Loading script took 0.07s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
 Loading analysis data took 0.01s
 Analyze and compile ATL took 0.00s
 Reloading save slot metadata took 0.01s
@@ -2047,304 +474,6 @@ Load screen analysis took 0.00s
 Analyze screens took 0.01s
 Save screen analysis took 0.01s
 Prepare screens took 0.04s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.49s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 2121.69s
-Loading error handling took 0.01s
-Loading script took 0.06s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.01s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Interface start took 0.41s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 3862.92s
-Loading error handling took 0.02s
-Loading script took 0.10s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-Running init code took 0.03s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.01s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Interface start took 0.41s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-
-Full traceback:
-  File "game/act3.rpy", line 34, in script
-    f "Oh. I see. I guess she’s busy, then. I’m glad she could make the time to meet with me, but I was hoping she’d be more excited…"
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 2586, in execute
-    Say.execute(self)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 623, in execute
-    renpy.exports.say(who, what, *args, **kwargs)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\exports\sayexports.py", line 132, in say
-    who(what, *args, **kwargs)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\character.py", line 1471, in __call__
-    self.do_display(who, what, cb_args=self.cb_args, dtt=dtt, **display_args)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\character.py", line 1117, in do_display
-    display_say(who,
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\character.py", line 814, in display_say
-    rv = renpy.ui.interact(mouse='say', type=type, roll_forward=roll_forward)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ui.py", line 301, in interact
-    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\display\core.py", line 2218, in interact
-    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\display\core.py", line 3104, in interact_core
-    renpy.audio.audio.periodic()
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\audio\audio.py", line 1256, in periodic
-    raise_(exc[0], exc[1], exc[2])
-  File "lib/python3.9/future/utils/__init__.py", line 444, in raise_
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\audio\audio.py", line 1234, in periodic_thread_main
-    periodic_pass()
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\audio\audio.py", line 1194, in periodic_pass
-    c.periodic()
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\audio\audio.py", line 554, in periodic
-    topf = load(filename)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\audio\audio.py", line 72, in load
-    rv = renpy.loader.load(fn, directory="audio")
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\loader.py", line 690, in load
-    raise IOError("Couldn't find file '%s'." % name)
-OSError: Couldn't find file 'audio/A1.ogg'.
-
-While running game code:
-  File "game/act3.rpy", line 34, in script
-    f "Oh. I see. I guess she’s busy, then. I’m glad she could make the time to meet with me, but I was hoping she’d be more excited…"
-OSError: Couldn't find file 'audio/A1.ogg'.
-Resetting cache.
-Early init took 3881.45s
-Loading error handling took 0.01s
-Loading script took 0.06s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Dump and make backups took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.01s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Interface start took 0.37s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-
-Full traceback:
-  File "game/act3.rpy", line 37, in script
-    f "Ah, perfect, you’ve returned! What news from Mars?"
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 2586, in execute
-    Say.execute(self)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 623, in execute
-    renpy.exports.say(who, what, *args, **kwargs)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\exports\sayexports.py", line 132, in say
-    who(what, *args, **kwargs)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\character.py", line 1471, in __call__
-    self.do_display(who, what, cb_args=self.cb_args, dtt=dtt, **display_args)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\character.py", line 1117, in do_display
-    display_say(who,
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\character.py", line 814, in display_say
-    rv = renpy.ui.interact(mouse='say', type=type, roll_forward=roll_forward)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ui.py", line 301, in interact
-    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\display\core.py", line 2218, in interact
-    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\display\core.py", line 3104, in interact_core
-    renpy.audio.audio.periodic()
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\audio\audio.py", line 1256, in periodic
-    raise_(exc[0], exc[1], exc[2])
-  File "lib/python3.9/future/utils/__init__.py", line 444, in raise_
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\audio\audio.py", line 1234, in periodic_thread_main
-    periodic_pass()
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\audio\audio.py", line 1194, in periodic_pass
-    c.periodic()
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\audio\audio.py", line 554, in periodic
-    topf = load(filename)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\audio\audio.py", line 72, in load
-    rv = renpy.loader.load(fn, directory="audio")
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\loader.py", line 690, in load
-    raise IOError("Couldn't find file '%s'." % name)
-OSError: Couldn't find file 'audio/A1.ogg'.
-
-While running game code:
-  File "game/act3.rpy", line 37, in script
-    f "Ah, perfect, you’ve returned! What news from Mars?"
-OSError: Couldn't find file 'audio/A1.ogg'.
-Resetting cache.
-Early init took 3928.32s
-Loading error handling took 0.01s
-Loading script took 0.06s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.01s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Interface start took 0.39s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 3993.48s
-Loading error handling took 0.01s
-Loading script took 0.10s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.01s
 Running _start took 0.00s
@@ -2362,14 +491,10 @@ Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
 Maximum texture size: 4096x4096
 Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
 Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 3999.39s
+Early init took 154.58s
 Loading error handling took 0.01s
-Loading script took 0.05s
+Loading script took 0.06s
 Loading save slot metadata took 0.01s
 Loading persistent took 0.00s
 Running init code took 0.02s
@@ -2410,1408 +535,9 @@ Maximum texture size: 4096x4096
 Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 4242.58s
-Loading error handling took 0.01s
-Loading script took 0.07s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.38s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.01s
-Analyze screens took 0.00s
-Prepare screens took 0.00s
-Running _start took 0.00s
-Resetting cache.
-Early init took 4416.36s
+Early init took 203.21s
 Loading error handling took 0.01s
 Loading script took 0.09s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.03s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.04s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.39s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 4418.75s
-Loading error handling took 0.01s
-Loading script took 0.06s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.02s
-Index archives took 0.00s
-Dump and make backups took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.01s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Interface start took 0.39s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 4458.28s
-Loading error handling took 0.01s
-Loading script took 0.09s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.38s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 4470.68s
-Loading error handling took 0.01s
-Loading script took 0.08s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.39s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 4671.60s
-Loading error handling took 0.01s
-Loading script took 0.10s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-File "game/logic.rpy", line 21: invalid syntax
-    def characterMusic(event, interact=True, **kwargs)
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Interface start took 0.32s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 4719.90s
-Loading error handling took 0.01s
-Loading script took 0.07s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-File "game/logic.rpy", line 24: invalid syntax
-    def characterMusic(event, interact=True, **kwargs)
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Interface start took 0.28s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 4732.17s
-Loading error handling took 0.01s
-Loading script took 0.09s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.03s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.02s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.39s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 4733.98s
-Loading error handling took 0.01s
-Loading script took 0.08s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.40s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 4744.87s
-Loading error handling took 0.01s
-Loading script took 0.10s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-Full traceback:
-  File "game/logic.rpy", line 23, in script
-    init python:
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 834, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\python.py", line 1187, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-  File "game/logic.rpy", line 24, in <module>
-    def characterMusic(event, interact=True, defaultMusic=backgroundMusic **kwargs):
-NameError: name 'kwargs' is not defined
-
-While running game code:
-  File "game/logic.rpy", line 23, in script
-    init python:
-  File "game/logic.rpy", line 24, in <module>
-    def characterMusic(event, interact=True, defaultMusic=backgroundMusic **kwargs):
-NameError: name 'kwargs' is not defined
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Interface start took 0.35s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 4767.65s
-Loading error handling took 0.01s
-Loading script took 0.08s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-Full traceback:
-  File "game/logic.rpy", line 23, in script
-    init python:
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 834, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\python.py", line 1187, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-  File "game/logic.rpy", line 24, in <module>
-    def characterMusic(event, interact=True, defaultMusic=backgroundMusic **kwargs):
-NameError: name 'kwargs' is not defined
-
-While running game code:
-  File "game/logic.rpy", line 23, in script
-    init python:
-  File "game/logic.rpy", line 24, in <module>
-    def characterMusic(event, interact=True, defaultMusic=backgroundMusic **kwargs):
-NameError: name 'kwargs' is not defined
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Interface start took 0.32s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 4826.48s
-Loading error handling took 0.01s
-Loading script took 0.09s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.03s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.38s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 4861.47s
-Loading error handling took 0.01s
-Loading script took 0.10s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-Full traceback:
-  File "game/logic.rpy", line 23, in script
-    init python:
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 834, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\python.py", line 1187, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-  File "game/logic.rpy", line 26, in <module>
-    def dialogueSounds(event, interact=True, defaultMusic=backgroundMusic **kwargs):
-NameError: name 'kwargs' is not defined
-
-While running game code:
-  File "game/logic.rpy", line 23, in script
-    init python:
-  File "game/logic.rpy", line 26, in <module>
-    def dialogueSounds(event, interact=True, defaultMusic=backgroundMusic **kwargs):
-NameError: name 'kwargs' is not defined
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Interface start took 0.33s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 4888.75s
-Loading error handling took 0.01s
-Loading script took 0.06s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-Full traceback:
-  File "game/logic.rpy", line 23, in script
-    init python:
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 834, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\python.py", line 1187, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-  File "game/logic.rpy", line 26, in <module>
-    def dialogueSounds(event, interact=True, defaultMusic=backgroundMusic **kwargs):
-NameError: name 'kwargs' is not defined
-
-While running game code:
-  File "game/logic.rpy", line 23, in script
-    init python:
-  File "game/logic.rpy", line 26, in <module>
-    def dialogueSounds(event, interact=True, defaultMusic=backgroundMusic **kwargs):
-NameError: name 'kwargs' is not defined
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Interface start took 0.33s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 4895.00s
-Loading error handling took 0.01s
-Loading script took 0.09s
-Loading save slot metadata took 0.02s
-Loading persistent took 0.00s
-
-Full traceback:
-  File "game/logic.rpy", line 23, in script
-    init python:
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 834, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\python.py", line 1187, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-  File "game/logic.rpy", line 26, in <module>
-    def dialogueSounds(event, interact=True, music=backgroundMusic **kwargs):
-NameError: name 'kwargs' is not defined
-
-While running game code:
-  File "game/logic.rpy", line 23, in script
-    init python:
-  File "game/logic.rpy", line 26, in <module>
-    def dialogueSounds(event, interact=True, music=backgroundMusic **kwargs):
-NameError: name 'kwargs' is not defined
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Interface start took 0.18s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 4899.73s
-Loading error handling took 0.01s
-Loading script took 0.08s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-File "game/script.rpy", line 4: positional argument follows keyword argument
-    Character("Flora", callback=dialogueSounds, cb_defaultMusic)
-                                                                ^
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Interface start took 0.32s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 4922.53s
-Loading error handling took 0.01s
-Loading script took 0.08s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-Full traceback:
-  File "game/logic.rpy", line 23, in script
-    init python:
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 834, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\python.py", line 1187, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-  File "game/logic.rpy", line 26, in <module>
-    def dialogueSounds(event, interact=True, music=backgroundMusic **kwargs):
-NameError: name 'kwargs' is not defined
-
-While running game code:
-  File "game/logic.rpy", line 23, in script
-    init python:
-  File "game/logic.rpy", line 26, in <module>
-    def dialogueSounds(event, interact=True, music=backgroundMusic **kwargs):
-NameError: name 'kwargs' is not defined
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Interface start took 0.33s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 4951.30s
-Loading error handling took 0.01s
-Loading script took 0.10s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-Full traceback:
-  File "game/logic.rpy", line 23, in script
-    init python:
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 834, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\python.py", line 1187, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-  File "game/logic.rpy", line 26, in <module>
-    def dialogueSounds(event, interact=True, music=backgroundMusic **kwargs):
-NameError: name 'kwargs' is not defined
-
-While running game code:
-  File "game/logic.rpy", line 23, in script
-    init python:
-  File "game/logic.rpy", line 26, in <module>
-    def dialogueSounds(event, interact=True, music=backgroundMusic **kwargs):
-NameError: name 'kwargs' is not defined
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Interface start took 0.33s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 4957.47s
-Loading error handling took 0.01s
-Loading script took 0.09s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-Full traceback:
-  File "game/logic.rpy", line 23, in script
-    init python:
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 834, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\python.py", line 1187, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-  File "game/logic.rpy", line 26, in <module>
-    def dialogueSounds(event, interact=True, music=backgroundMusic **kwargs):
-NameError: name 'kwargs' is not defined
-
-While running game code:
-  File "game/logic.rpy", line 23, in script
-    init python:
-  File "game/logic.rpy", line 26, in <module>
-    def dialogueSounds(event, interact=True, music=backgroundMusic **kwargs):
-NameError: name 'kwargs' is not defined
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Interface start took 0.34s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 4965.21s
-Loading error handling took 0.01s
-Loading script took 0.09s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-Full traceback:
-  File "game/logic.rpy", line 23, in script
-    init python:
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 834, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\python.py", line 1187, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-  File "game/logic.rpy", line 26, in <module>
-    def dialogueSounds(event, interact=True, music=backgroundMusic **kwargs):
-NameError: name 'kwargs' is not defined
-
-While running game code:
-  File "game/logic.rpy", line 23, in script
-    init python:
-  File "game/logic.rpy", line 26, in <module>
-    def dialogueSounds(event, interact=True, music=backgroundMusic **kwargs):
-NameError: name 'kwargs' is not defined
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Interface start took 0.31s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 4991.02s
-Loading error handling took 0.01s
-Loading script took 0.09s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.39s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 5030.58s
-Loading error handling took 0.01s
-Loading script took 0.10s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.41s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.01s
-Analyze screens took 0.00s
-Prepare screens took 0.00s
-Running _start took 0.00s
-Resetting cache.
-Early init took 5171.56s
-Loading error handling took 0.01s
-Loading script took 0.08s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.38s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 5250.34s
-Loading error handling took 0.01s
-Loading script took 0.10s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.40s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 5270.27s
-Loading error handling took 0.01s
-Loading script took 0.09s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-
-File "game/logic.rpy", line 42: unexpected indent
-                renpy.with_statement(Dissolve(1.0))
-                ^
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Interface start took 0.28s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 5271.97s
-Loading error handling took 0.01s
-Loading script took 0.08s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.03s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.02s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.26s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 5278.33s
-Loading error handling took 0.01s
-Loading script took 0.10s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.37s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 5287.71s
-Loading error handling took 0.01s
-Loading script took 0.09s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.39s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 5292.56s
-Loading error handling took 0.01s
-Loading script took 0.09s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.41s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 5294.38s
-Loading error handling took 0.01s
-Loading script took 0.06s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.01s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Interface start took 0.39s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 5332.45s
-Loading error handling took 0.01s
-Loading script took 0.08s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.40s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 5335.79s
-Loading error handling took 0.01s
-Loading script took 0.07s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.40s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 5361.74s
-Loading error handling took 0.01s
-Loading script took 0.07s
-Loading save slot metadata took 0.01s
-Loading persistent took 0.00s
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
-Index archives took 0.00s
-Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
-Dump and make backups took 0.03s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc took 0.03s
-DPI scale factor: 1.500000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Interface start took 0.39s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 566.14'
-Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
-Maximum texture size: 4096x4096
-
-Full traceback:
-  File "game/script.rpy", line 29, in script
-    $ travelBetween()
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 834, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\python.py", line 1187, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-  File "game/script.rpy", line 29, in <module>
-    $ travelBetween()
-  File "game/logic.rpy", line 49, in travelBetween
-    renpy.with_statement(Fade(1.0))
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\exports\statementexports.py", line 257, in with_statement
-    return renpy.game.interface.do_with(trans, paired, clear=clear)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\display\core.py", line 1581, in do_with
-    return self.interact(trans_pause=True,
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\display\core.py", line 2218, in interact
-    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, pause_modal=pause_modal, **kwargs) # type: ignore
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\display\core.py", line 2669, in interact_core
-    trans = instantiate_transition(None, old_root, layers_root)
-  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\display\core.py", line 2578, in instantiate_transition
-    trans = self.ongoing_transition[layer](
-TypeError: Fade() missing 2 required positional arguments: 'hold_time' and 'in_time'
-
-While running game code:
-  File "game/script.rpy", line 29, in script
-    $ travelBetween()
-  File "game/script.rpy", line 29, in <module>
-    $ travelBetween()
-  File "game/logic.rpy", line 49, in travelBetween
-    renpy.with_statement(Fade(1.0))
-TypeError: Fade() missing 2 required positional arguments: 'hold_time' and 'in_time'
-Resetting cache.
-Early init took 5413.37s
-Loading error handling took 0.01s
-Loading script took 0.08s
 Loading save slot metadata took 0.01s
 Loading persistent took 0.00s
 Running init code took 0.02s
@@ -3853,9 +579,138 @@ Maximum texture size: 4096x4096
 Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
 Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 5445.40s
+Early init took 214.14s
 Loading error handling took 0.01s
-Loading script took 0.07s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.02s
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.38s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.14'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 217.47s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.42s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.14'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 221.37s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.38s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.14'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 383.11s
+Loading error handling took 0.01s
+Loading script took 0.10s
 Loading save slot metadata took 0.01s
 Loading persistent took 0.00s
 Running init code took 0.02s
@@ -3882,7 +737,406 @@ Prepare screens took 0.03s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.01s
 Running _start took 0.00s
+Interface start took 0.40s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.14'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 386.39s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.39s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.14'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 28, in script
+    $ travelBetween("knight")
+  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 834, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\python.py", line 1187, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 28, in <module>
+    $ travelBetween("knight")
+  File "game/logic.rpy", line 39, in travelBetween
+    toKnight = not toKnight
+UnboundLocalError: local variable 'toKnight' referenced before assignment
+
+While running game code:
+  File "game/script.rpy", line 28, in script
+    $ travelBetween("knight")
+  File "game/script.rpy", line 28, in <module>
+    $ travelBetween("knight")
+  File "game/logic.rpy", line 39, in travelBetween
+    toKnight = not toKnight
+UnboundLocalError: local variable 'toKnight' referenced before assignment
+Resetting cache.
+Early init took 506.94s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
 Interface start took 0.38s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.14'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 28, in script
+    $ travelBetween("knight")
+  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 834, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\python.py", line 1187, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 28, in <module>
+    $ travelBetween("knight")
+  File "game/logic.rpy", line 39, in travelBetween
+    toKnight = not toKnight
+UnboundLocalError: local variable 'toKnight' referenced before assignment
+
+While running game code:
+  File "game/script.rpy", line 28, in script
+    $ travelBetween("knight")
+  File "game/script.rpy", line 28, in <module>
+    $ travelBetween("knight")
+  File "game/logic.rpy", line 39, in travelBetween
+    toKnight = not toKnight
+UnboundLocalError: local variable 'toKnight' referenced before assignment
+Resetting cache.
+Early init took 508.71s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.28s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.14'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 28, in script
+    $ travelBetween("knight")
+  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 834, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\python.py", line 1187, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 28, in <module>
+    $ travelBetween("knight")
+  File "game/logic.rpy", line 39, in travelBetween
+    toKnight = not toKnight
+UnboundLocalError: local variable 'toKnight' referenced before assignment
+
+While running game code:
+  File "game/script.rpy", line 28, in script
+    $ travelBetween("knight")
+  File "game/script.rpy", line 28, in <module>
+    $ travelBetween("knight")
+  File "game/logic.rpy", line 39, in travelBetween
+    toKnight = not toKnight
+UnboundLocalError: local variable 'toKnight' referenced before assignment
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 515.15s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.39s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.14'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 535.08s
+Loading error handling took 0.01s
+Loading script took 0.09s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.00s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.41s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.14'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 28, in script
+    $ travelBetween("knight")
+  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\ast.py", line 834, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\ryang\Downloads\renpy-8.3.7-sdk\renpy\python.py", line 1187, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 28, in <module>
+    $ travelBetween("knight")
+  File "game/logic.rpy", line 38, in travelBetween
+    toKnight = not toKnight
+UnboundLocalError: local variable 'toKnight' referenced before assignment
+
+While running game code:
+  File "game/script.rpy", line 28, in script
+    $ travelBetween("knight")
+  File "game/script.rpy", line 28, in <module>
+    $ travelBetween("knight")
+  File "game/logic.rpy", line 38, in travelBetween
+    toKnight = not toKnight
+UnboundLocalError: local variable 'toKnight' referenced before assignment
+Resetting cache.
+Early init took 814.58s
+Loading error handling took 0.01s
+Loading script took 0.10s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\ryang\\AppData\\Roaming/RenPy/backups\\The Royal Messenger':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.40s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 566.14'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(2560, 1334) drawable=(2560, 1334)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 831.46s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.500000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b'DRS_SaveSettings() = -1.' (can be ignored)
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.39s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 2560, 1440)

@@ -120,11 +120,11 @@ label .act3end:
     f "Please, let her know that I will see her soon, and that I am looking forward to our date!"
 
     scene placeholder
-    if roseMeter > 10:
+    if roseMeter > 7:
         nvl_n "Before the lovebirds know it, the day of their date arrives, and they finally meet one another in person, each full of anticipation."
         nvl_n "Despite this, Flora begins to find Mars less interesting than she had hoped, and Mars finds Flora more abrasive than she had anticipated."
         nvl_n "Their date falters as the day drags on, ending with both parties disillusioned and disappointed. Needless to say, there isn’t a second date."
-    elif roseMeter < -10:
+    elif roseMeter < -7:
         nvl_n "The day of their date rolls around with nary a message exchanged between our two love birds."
         nvl_n "As the days passed, Flora’s impatience bred disinterest and Mars’ concern tired her out more than even her work."
         nvl_n "It seems the pair just weren’t meant to be. Maybe in another life…"

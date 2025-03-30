@@ -45,7 +45,7 @@ image bg knightBG = "KnightBackground.png"
 image knight base = "k_Base.png"
 image knight = "k_Neutral.png"
 image knight cur = "k_Curious.png"
-image knight hap = "k_TalkingNeutral.png"
+image knight hap = "k_Happy.png"
 image knight thornReact:
     "KnightThorn.jpg"
     pause reactionTime

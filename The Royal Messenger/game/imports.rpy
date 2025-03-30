@@ -46,15 +46,21 @@ image knight = "k_Base.png"
 image knight thornReact:
     "KnightThorn.jpg"
     pause reactionTime
-    "k_Base.jpg"
+    "k_Base.png"
 image knight roseReact: 
     "KnightRose.jpg"
     pause reactionTime
-    "k_Base.jpg"
+    "k_Base.png"
 
 # Princess character
 image bg princessBG =  "PrincessBackground.jpeg"
 
 image princess = "p_Base.png"
-image princess thornReact = "PrincessThorn.jpg"
-image princess roseReact = "PrincessRose.jpeg"
+image princess thornReact:
+    "PrincessThorn.jpg"
+    pause reactionTime
+    "p_Base.png"
+image princess roseReact: 
+    "PrincessRose.jpg"
+    pause reactionTime
+    "p_Base.png"
